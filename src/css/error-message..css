@@ -1,0 +1,12 @@
+.toast-container {
+  pointer-events: all !important;
+}
+.alert-danger {
+  background-color: #e63f2e !important;
+  border-color: #d45028 !important;
+  color: white !important;
+}
+.sub-text-error {
+  font-size: small;
+  color: #e8ffd4;
+}

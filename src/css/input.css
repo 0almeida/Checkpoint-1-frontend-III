@@ -1,0 +1,32 @@
+.form-control {
+  display: inline !important;
+  width: 100%;
+}
+#btn-color-submit {
+  background-color: #08704ec9 !important;
+  border: 1px solid #1408a0c9 !important;
+  margin-bottom: 2px !important;
+}
+#btn-color-submit:hover {
+  background-color: #292277ea !important;
+  border: 1px solid #292277ea !important;
+}
+
+@media screen and (min-width: 450px) {
+  .form-control {
+    width: 50% !important;
+    margin-right: 0.5rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  #btn-color-submit {
+    margin: 1rem auto;
+    margin-left: 25vw;
+    width: 10rem;
+  }
+}
+#input-error {
+  font-size: 14px;
+  margin-left: 1rem;
+  color: red;
+}

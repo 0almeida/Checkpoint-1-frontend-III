@@ -1,0 +1,19 @@
+.App {
+  margin: 1rem !important;
+}
+
+.App > div {
+  padding: 1rem !important;
+}
+
+.colors {
+  margin: 0 !important;
+}
+
+h3 {
+  text-align: center !important;
+  margin-bottom: 0 !important;
+  font-weight: 700 !important;
+  color: #110c42c9 !important;
+  margin-top: 5px !important;
+}

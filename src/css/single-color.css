@@ -1,0 +1,18 @@
+.color-box {
+  height: 9.5rem;
+  padding: 0.75rem 2rem;
+  cursor: pointer;
+}
+@media (min-width: 992px) {
+  .col-lg-2 {
+    flex: 0 0 auto;
+    width: 20% !important;
+  }
+}
+.percentage,
+.color-code {
+  margin-bottom: 0 !important;
+}
+.color-code {
+  letter-spacing: 2px;
+}
